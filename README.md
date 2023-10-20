@@ -1,5 +1,3 @@
-# Rahul Goyal
-
 Over 8 years of expertise in migrating business applications to the cloud, serving as a DevOps Engineer in managed cloud services. Proficient in AWS, Terraform, Docker, Kubernetes, System Administration, and automation. Skilled in instilling DevOps practices. A collaborative leader with excellent communication and a strong initiative-taking drive.
 
 ## Technical Experience and Project Managed
@@ -44,12 +42,9 @@ Over 8 years of expertise in migrating business applications to the cloud, servi
 
 ## Education and Qualifications
 
-- Bachelor of Technology (ME)/Galgotias University, Gr. Noida – 84.4%
-  - *June 2015*
-- CBSE 12th Board/The Indian School, Delhi – 81.0%
-  - *May 2010*
-- CBSE 10th Board/Vidya Niketan, Delhi – 80.6%
-  - *June 2008*
+- Bachelor of Technology (ME)/Galgotias University, Gr. Noida – 84.4% &emsp;&emsp;&emsp;  - *June 2015*
+- CBSE 12th Board/The Indian School, Delhi – 81.0% &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; - *May 2010*
+- CBSE 10th Board/Vidya Niketan, Delhi – 80.6% &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  - *June 2008*
 
 ## Technical Skills and Tools
 
