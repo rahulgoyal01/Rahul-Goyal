@@ -2,8 +2,7 @@ Over 8 years of expertise in migrating business applications to the cloud, servi
 
 ## Technical Experience and Project Managed
 
-### Technical Lead, Cloud/Tavant Technologies, Bengaluru
-*Sep 2021 – Present*
+### Technical Lead, Cloud/Tavant Technologies, Bengaluru &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Sep 2021 – Present*
 
 - Utilized Python and PowerShell scripting to optimize data handling from servers to Amazon S3, continuously improving data handling processes and automating repetitive tasks.
 - Architected and implemented ETL infrastructure on AWS using Terraform, AWS Glue, ECS, and Sagemaker, streamlining data transformation and processing.
@@ -14,8 +13,7 @@ Over 8 years of expertise in migrating business applications to the cloud, servi
 - Managed Snowflake accounts, optimized storage for cost and performance, and established secure network connectivity, ensuring data security and high availability.
 - Conducted regular security audits and implemented policies for data protection and regulatory compliance, maintaining robust data security.
 
-### Cloud Operations Analyst/Ion Trading India Pvt Ltd., Noida
-*May 2019 – Sep 2021*
+### Cloud Operations Analyst/Ion Trading India Pvt Ltd., Noida &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *May 2019 – Sep 2021*
 
 - Proficiently automated server-based and manual tasks through PowerShell scripting, increasing operational efficiency.
 - Collaborated with business and development teams to design robust and scalable solutions for cloud readiness, ensuring smooth migration from on-premises to the cloud.
@@ -23,8 +21,7 @@ Over 8 years of expertise in migrating business applications to the cloud, servi
 - Managed Patch Management using WSUS server for security patches over Windows Server 2012, 2012 R2, and 2016, ensuring up-to-date security.
 - Implemented a Rapid deployment method using infrastructure automation tools like Terraform, Docker, and Kubernetes, simplifying deployment processes.
 
-### Senior Systems Engineer/Infosys Limited, Pune
-*Feb 2016 – April 2019*
+### Senior Systems Engineer/Infosys Limited, Pune &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Feb 2016 – April 2019*
 
 - Collaborated as a key member of the Server and Cloud DevOps team, baselining customer infrastructure, making recommendations for performance enhancements and capacity planning.
 - Managed Windows and Linux servers in Hyper-V and Azure-based environments, ensuring reliability and scalability for development and production.
@@ -33,8 +30,7 @@ Over 8 years of expertise in migrating business applications to the cloud, servi
 - Contributed to server provisioning, host and guest provisioning, and capacity planning for Windows servers, optimizing infrastructure performance.
 - Interacted with internal and external customers to resolve issues within SLA, ensuring customer satisfaction.
 
-### Process Associate/Sopra Steria, Noida
-*Sep 2015 – Jan 2016*
+### Process Associate/Sopra Steria, Noida &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Sep 2015 – Jan 2016*
 
 - Administered and monitored Linux and Windows servers in a Hyper-V Private cloud environment, ensuring uptime and performance.
 - Acted as the primary point of contact for client technical issues, coordinating directly with relevant teams for prompt issue resolution.
