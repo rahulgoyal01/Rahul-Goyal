@@ -1,4 +1,4 @@
-Over 8 years of expertise in migrating business applications to the cloud, serving as a DevOps Engineer in managed cloud services. Proficient in AWS, Terraform, Docker, Kubernetes, System Administration, and automation. Skilled in instilling DevOps practices. A collaborative leader with excellent communication and a strong initiative-taking drive.
+Over 8 years of expertise in design, implement, migrate and manage business applications in the cloud, serving as a Cloud DevOps Engineer. Proficient in AWS, Terraform, Docker, Kubernetes, System Administration, and automation. Skilled in instilling DevOps practices. A collaborative leader with excellent communication and a strong initiative-taking drive.
 
 ## Technical Experience and Project Managed
 
