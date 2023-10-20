@@ -1,0 +1,25 @@
+# Site settings
+title: Rahul Goyal, Technical Lead - Cloud
+description: Your brief description here
+baseurl: "" # Leave it empty for GitHub Pages
+url: "" # Leave it empty for GitHub Pages
+
+# Jekyll settings
+markdown: kramdown
+theme: jekyll-theme-cayman # Change this to the name of your chosen Jekyll theme
+
+# Permalinks
+permalink: /:title
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+# Additional settings
+author: Rahul Goyal
+email: rahulgoyal03@outlook.com / rg6393@gmail.com
+linkedin_Url: yourlinkedinhandle
+github_username: rahulgoyal01
+
+# GitHub Pages settings
+repository: rahulgoyal01/rahulgoyal01.github.io # Replace with your GitHub repository name
