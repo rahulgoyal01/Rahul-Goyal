@@ -1,15 +1,15 @@
 # Site settings
 title: Rahul Goyal, Technical Lead - Cloud
-description: #
-baseurl: "" # Leave it empty for GitHub Pages
-url: "" # Leave it empty for GitHub Pages
+description: Over 8 years of expertise in design, implement, migrate and manage business applications in the cloud, serving as a Cloud DevOps Engineer. Proficient in AWS, Terraform, Docker, Kubernetes, System Administration, and automation. Skilled in instilling DevOps practices. A collaborative leader with excellent communication and a strong initiative-taking drive.
+#baseurl: "" # Leave it empty for GitHub Pages
+#url: "" # Leave it empty for GitHub Pages
 
 # Jekyll settings
 markdown: kramdown
 theme: jekyll-theme-modernist # Change this to the name of your chosen Jekyll theme
 
 # Permalinks
-permalink: /:title
+#permalink: /:title
 
 # Build settings
 plugins:
@@ -18,7 +18,7 @@ plugins:
 # Additional settings
 author: Rahul Goyal
 email: rahulgoyal03@outlook.com / rg6393@gmail.com
-linkedin_Url: yourlinkedinhandle
+linkedin_Url: www.linkedin.com/in/rahulgoyal03/
 github_username: rahulgoyal01
 
 # GitHub Pages settings
