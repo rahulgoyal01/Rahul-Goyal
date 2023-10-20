@@ -1,12 +1,12 @@
 # Site settings
 title: Rahul Goyal, Technical Lead - Cloud
-description: Your brief description here
+description: #
 baseurl: "" # Leave it empty for GitHub Pages
 url: "" # Leave it empty for GitHub Pages
 
 # Jekyll settings
 markdown: kramdown
-theme: jekyll-theme-cayman # Change this to the name of your chosen Jekyll theme
+theme: jekyll-theme-modernist # Change this to the name of your chosen Jekyll theme
 
 # Permalinks
 permalink: /:title
