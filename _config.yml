@@ -6,7 +6,7 @@ description: Over 8 years of expertise in design, implement, migrate and manage 
 
 # Jekyll settings
 markdown: kramdown
-theme: jekyll-theme-modernist # Change this to the name of your chosen Jekyll theme
+theme: jekyll-theme-minima # Change this to the name of your chosen Jekyll theme
 
 # Permalinks
 #permalink: /:title
