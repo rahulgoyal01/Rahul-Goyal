@@ -13,7 +13,7 @@ Over 8 years of expertise in migrating business applications to the cloud, servi
 - Managed Snowflake accounts, optimized storage for cost and performance, and established secure network connectivity, ensuring data security and high availability.
 - Conducted regular security audits and implemented policies for data protection and regulatory compliance, maintaining robust data security.
 
-### Cloud Operations Analyst/Ion Trading India Pvt Ltd., Noida &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *May 2019 – Sep 2021*
+### Cloud Operations Analyst/Ion Trading India Pvt Ltd., Noida &emsp;&emsp;&emsp;&emsp;&emsp; *May 2019 – Sep 2021*
 
 - Proficiently automated server-based and manual tasks through PowerShell scripting, increasing operational efficiency.
 - Collaborated with business and development teams to design robust and scalable solutions for cloud readiness, ensuring smooth migration from on-premises to the cloud.

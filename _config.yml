@@ -12,8 +12,12 @@ theme: minima # Change this to the name of your chosen Jekyll theme
 #permalink: /:title
 
 # Build settings
+# plugins:
+#   - jekyll-feed
+
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Additional settings
 author: Rahul Goyal
