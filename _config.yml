@@ -11,7 +11,7 @@ theme: minima # Change this to the name of your chosen Jekyll theme
 # Permalinks
 #permalink: /:title
 
-Build settings
+# Build settings
 plugins:
   - jekyll-feed
 
